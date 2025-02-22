@@ -1,4 +1,3 @@
-## Vitor Trovão aqui 👋✨
 
 - 🔭 Interesse em Backend, Desenvolvimento Web, Mobile
 - 🌱 Estudando Java, JavaScript,
