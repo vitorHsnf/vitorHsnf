@@ -1,7 +1,30 @@
 
+<h3 align="left"> Welcome to My Profile! </h3>
+
 - 🔭 Interest in Backend, Web and Mobile Development
 - 🌱 Studying Java and JavaScript
 - 📫 Learning and developing, a lifetime goal
+
+##
+
+<h3 align="left">Connect with me!</h3>
+
+  <a href = "mailto:vitortrovao2016@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vitor-h-782307350/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<h3 align="left"> Stacks </h3>
+<div align="left">
+  <img align="center" height=25 alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/> 
+  <img align="center" height=25 alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"> 
+  <img align="center" height=25 alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" height=25 alt="Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img align="center" height=25 alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg">
+  <img align="center" height=25 alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg">
+  <img align="center" height=25 alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg">
+  <img align="center" height=25 alt="Mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+</div>
+
+# 
 
 <div>
   <a href="https://github.com/vitorHsnf">
@@ -9,31 +32,5 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorHsnf&theme=dark&layout=compact&hide_progress=true">
 </div>
 
-<div>
-- Backend: <br>
-    <img align="center" alt="Java"src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logoColor=white"> <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-</div>
 
-#
-
-<h3 align="left"> Tech </h3>
-<div>
-- Frontend: <br>
-  <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logoColor=black">
-  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</div>
-
-<div>
-  - Database: <br>
-  <img align="center" alt="Mysql" src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white">
-</div>
-
-##
-
-<h3 align="left">Connect with me!</h3>
-  
-  <a href = "mailto:vitortrovao2016@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vitor-h-782307350/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
