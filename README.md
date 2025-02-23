@@ -3,7 +3,7 @@
 
 - 🔭 Interest in Backend, Web and Mobile Development
 - 🌱 Studying Java and JavaScript
-- 📫 Learning and developing, a lifetime goal 
+- 📫 A lifetime goal: learning and developing 
 
 <div>
   <a href="https://github.com/vitorHsnf">
