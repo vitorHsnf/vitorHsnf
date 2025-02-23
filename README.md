@@ -3,8 +3,14 @@
 
 - 🔭 Interest in Backend, Web and Mobile Development
 - 🌱 Studying Java and JavaScript
-- 📫 Learning and developing, a lifetime goal
+- 📫 Learning and developing, a lifetime goal 
 
+<div>
+  <a href="https://github.com/vitorHsnf">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vitorHsnf&show_icons=true&include_all_commits=true&theme=dark&alt="GitHub Stats">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorHsnf&line_height=10&card_width=290&theme=dark&border_radius=3&layout=compact&count_private=true&alt="Most Used Languages">
+</div>
+    
 ##
 
 <h3 align="left">Connect with me!</h3>
@@ -22,14 +28,6 @@
   <img align="center" height=25 alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg">
   <img align="center" height=25 alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg">
   <img align="center" height=25 alt="Mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-</div>
-
-# 
-
-<div>
-  <a href="https://github.com/vitorHsnf">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vitorHsnf&show_icons=true&include_all_commits=true&theme=dark&alt="GitHub Stats">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorHsnf&line_height=10&card_width=290&theme=dark&border_radius=3&layout=compact&count_private=true&alt="Most Used Languages">
 </div>
 
 #
